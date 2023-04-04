@@ -3,8 +3,6 @@
 ## Summary
 This project aims to optimize the profitability of [ACT Legal Service Company GmbH](https://actlegal.com/) by analyzing its various client sectors using a data-driven approach. The project will involve developing an efficient data pipeline to collect, clean, and analyze data from various internal and external sources. The data will be used to create insightful dashboards and reports in Tableau that will aid in decision-making. Additionally, recommendations for future projects will be provided to help [ACT Legal Service Company GmbH](https://actlegal.com/) further enhance its data capabilities and stay ahead of its competitors.
 
-
-
 <details><summary>Step 1: Define the Data Sources</summary>
 <p>
 
@@ -64,7 +62,7 @@ This project aims to optimize the profitability of [ACT Legal Service Company Gm
 * Ensure that the data pipeline is scalable and can handle increases in data volume or complexity over time.
 
 </p>
-</details>
+</
 
 <details><summary>Step 7: Create Dashboards and Reports</summary>
 <p>
@@ -80,4 +78,12 @@ This project aims to optimize the profitability of [ACT Legal Service Company Gm
 <p>
 
 * Analyze the data and provide insights to the law firm on the profitability of each sector it operates in.
-* Identify areas where the law firm could improve its operations or take advantage of
+* Identify areas where the law firm could improve its operations or take advantage of new opportunities.
+* Note that the specific KPIs and recommendations will depend on the law firm's goals and priorities, and that these will be determined in consultation with the project team.
+</p>
+</details>
+
+**Disclaimer:**
+
+Please note that this is a generalized outline based on the website of ACT Legal Service Company GmbH, and that the specific details of the project may differ based on the data sources available and the specific goals and priorities of the law firm. Additionally, this project has a limited time frame of four weeks, and as such, not all of the steps outlined above may be fully realized. Nonetheless, we believe that this study project can provide valuable insights into the law firm's client sectors and profitability, and we look forward to working with ACT Legal Service Company GmbH to help further enhance its data capabilities and stay ahead of its competitors. 
+
