@@ -1,6 +1,6 @@
 # Project Title: Analysis and Optimization of Client Sectors for [ACT Legal Service Company GmbH](https://actlegal.com/)
 
-![ACT Legal Service Company GmbH logo](legal_network/images/act_logo.jpeg)
+![ACT Legal Service Company GmbH logo](legal_network/images/act_logo.jpg)
 
 ## Summary
 This project aims to optimize the profitability of [ACT Legal Service Company GmbH](https://actlegal.com/) by analyzing its various client sectors using a data-driven approach. The project will involve developing an efficient data pipeline to collect, clean, and analyze data from various internal and external sources. The data will be used to create insightful dashboards and reports in Tableau that will aid in decision-making. Additionally, recommendations for future projects will be provided to help [ACT Legal Service Company GmbH](https://actlegal.com/) further enhance its data capabilities and stay ahead of its competitors.
